@@ -1,0 +1,19 @@
+From the others:
+	- Note to many icons
+	- Flat and moslty empty sidebar/navbar
+	- Discret highlight
+
+Good sofware example:
+	- dedoose? Beceause it is flat!
+
+My obsdervation for modern UI:
+	- Rounded windows
+	- Stacked part with shadows
+	- Retractable sidebar/navbar
+
+Ideas to implement:
+	- Wordcloud
+	- Graph View
+	- Sentiment analysis graph
+	- Network visualization
+	- Correspondance analysis

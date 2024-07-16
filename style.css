@@ -1,0 +1,25 @@
+  /* Additional styles can go here */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.container-fluid {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr; /* Three columns: 1/5 for each sidebar, 3/5 for main content, 1/5 for each section */
+  grid-column-gap: 5px; /* Adjust the gap between columns as needed */
+  align-content: center;
+}
+#sidebar {
+  min-height: 100vh;
+  background-color: #f4f4f4;
+}
+.navbar-bg {
+  background-color: #007bff;
+  color: white;
+  font-size: large;
+}
+.section-sidebar {
+  min-height: 100vh;
+  background-color: #007bff;
+  color: white;
+  font-size: large;
+}

@@ -1,0 +1,40 @@
+Nicolas
+- épuré sans être trop chargé
+- Claire et accessible
+- Fonction essentielles semblent présentent
+- Barre retractable super cool!
+- Code couleur doivent s'appliquer sur le texte
+
+Sélim
+- Stylé et claire
+- Une barre de navigation (importer devrait être en haut):
+	- Fichier
+	- Edition
+- Drag and drop document dans l'onglet document
+- Memo (Atlas.ti et Nvivo) -> se sont des notes/reflexions
+- Le bouton enregistré à droite n'est pas bien placé
+- Activer et désactiver le surlignage
+
+Anna
+- Intuitive and clear (good to have import)
+- Above the section "Documents", you could perhaps add the section "Folder" (with the name of the project, for example, "Interviews Pavia"). 
+- Also, I was wondering if the "code" section should not be on the right - where I now see the words in two different colours. On the right, under "Codes", the researcher would code the text, add colours and then underline the words in the document. 
+- Lastly, the symbols after the "Save" icon are slightly less clear, would the second be to search words into the text and the third one to filter the text? What would the third function do to the text? 
+
+Maeva
+- Pouvoir rechercher les termes serait super
+- Pouvoir rechercher les thématique
+- Mettre un option d'export
+- Mettre une petite boîte ou un bouton flottant pour les commentaires/prise de note
+- Mettre des hiérarchies dans les codes
+- Insérer ses références zotero?
+- Pouvoir sauvegarder ses données en ligne?
+
+Livia
+- 
+
+Valérie
+- Pouvoir ajouter un groupe d'appartenance (colonne dans le tableau Excel)
+
+Alis
+- Interface plus proche de Nvivo
